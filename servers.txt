@@ -1,0 +1,10 @@
+1	menu-item	https://megamax.me/iframe/A8u7jHYh6Cyq2
+2	menu-item	https://mega.nz/embed/xHFljDKQ!udQizVDlIrFKeGPMenNWurjqG-16xApqSoQ1uQBWetY
+3	menu-item	https://www.ok.ru/videoembed/3381413677786
+4	menu-item	https://do7go.com/e/140c6i7nes2b
+5	menu-item	https://uqload.net/embed-4y7yz0qvmmkg.html
+6	menu-item	https://www.solidfiles.com/e/YPB25dgpZN62P
+7	megamax	https://vadbam.com/embed-nszj01zvgyf4.html
+8	mega بدون اعلانات	https://www.4shared.com/web/embed/file/tZdVP3qaea/
+9	ok.ru	https://www.mp4upload.com/embed-nxdvsvwma52y.html
+10	DoodStream	https://uptostream.com/iframe/r6tmn5sin3ih
